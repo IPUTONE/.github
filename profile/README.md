@@ -1,12 +1,5 @@
-## Hi there 👋
+## プロジェクト概要
+IPUTの課外活動（サークル）の情報をまとめ、外部に公開し、IPUTの学生やその他の外部の方に認知してもらうサイトを制作します。これにより、課外活動の促進や、広報活動をしやすくしたり、IPUTへの入学の動機に繋げることができると考えています。
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## プロジェクト背景
+IPUTでは、サークルは存在するもののホームページなどで情報を公開できないため、サークル活動を表側で行うことが困難です。現在、IPUTでは多くのサークルが出来ており、サークルの広報活動は、TwitterやSlack等のSNSを用いて行われています。そのため、サークルの情報がバラバラになりサークルへの参加が困難になっているのが現状です。それらの問題を解決するべくサイトを制作します。
